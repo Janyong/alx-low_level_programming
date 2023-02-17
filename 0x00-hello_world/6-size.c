@@ -4,7 +4,7 @@
 /**
  * main - Prints the same size of various typesa based on
  * the computer it is compiled and run on
- * Return: 0 (Success)
+ * Return: Always  0. 
  */
 int main(void)
 
